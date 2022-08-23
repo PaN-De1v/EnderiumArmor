@@ -1,7 +1,7 @@
-name: Custom-armor
+name: CustomArmor
 version: '${project.version}'
-main: customarmor.customarmor.CustomArmor
+main: me.de1v.CustomArmor
 api-version: 1.18
 authors: [ De1v ]
-description: Custom enderium armor recipes
+description: Custom enderium armor
 website: https://mr.de1v.eu
